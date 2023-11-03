@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Bluetooth LE Spam</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Bluetooth LE Spam</string>
+    <string name="nav_header_subtitle">github.com/simondankelmann</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_fastPairing">Fast Pairing</string>
+    <string name="menu_swiftPair">Swift Pair</string>
+
+    <string-array name="spinner_entries_tx_power">
+        <item name="tx_power_high">High</item>
+        <item name="tx_power_medium">Medium</item>
+        <item name="tx_power_low">Low</item>
+        <item name="tx_power_ultralow">Ultra Low</item>
+    </string-array>
+</resources>
